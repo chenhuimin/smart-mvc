@@ -1,2 +1,2 @@
 # smart-mvc
-DIY mvc framework
+DIY a mvc framework
